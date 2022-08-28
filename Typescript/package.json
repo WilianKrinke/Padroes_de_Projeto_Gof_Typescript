@@ -1,0 +1,23 @@
+{
+  "name": "Padroes_de_Projeto_Gof_Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilianKrinke/Padroes_de_Projeto_Gof_Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilianKrinke/Padroes_de_Projeto_Gof_Typescript/issues"
+  },
+  "homepage": "https://github.com/WilianKrinke/Padroes_de_Projeto_Gof_Typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
